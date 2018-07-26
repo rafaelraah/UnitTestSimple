@@ -1,0 +1,10 @@
+C:\Users\Raah\source\repos\TesteUnitario\View\bin\Debug\View.exe.config
+C:\Users\Raah\source\repos\TesteUnitario\View\bin\Debug\View.exe
+C:\Users\Raah\source\repos\TesteUnitario\View\bin\Debug\View.pdb
+C:\Users\Raah\source\repos\TesteUnitario\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\Raah\source\repos\TesteUnitario\View\obj\Debug\View.Calculadora.resources
+C:\Users\Raah\source\repos\TesteUnitario\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Raah\source\repos\TesteUnitario\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\Raah\source\repos\TesteUnitario\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Raah\source\repos\TesteUnitario\View\obj\Debug\View.exe
+C:\Users\Raah\source\repos\TesteUnitario\View\obj\Debug\View.pdb
